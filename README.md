@@ -1,4 +1,4 @@
-# Final_Exam_Akila
+# CICD Pipeline using Github Actions
 
 Workflow :
 
